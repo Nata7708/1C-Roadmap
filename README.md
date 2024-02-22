@@ -1,4 +1,4 @@
-# 1C-Roadmap Разработчик 1С
+# 1C-Roadmap Разработчик 1С/Аналитик 1С
 <h3>ИЗУЧЕНО:</h3>
 
 <h4>1. Книги:</h4>
@@ -12,7 +12,7 @@
    
 <h4>2. Курсы:</h4>
    
-<h5>Декабрь 2023</h5><p>
+<h5>Декабрь 2023</h5><br>
 2.1. Интенсивное обучение программированию в 1С https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/<p>
 
 <h5>Январь 2024</h5><p>
@@ -23,7 +23,8 @@
 <h5>Февраль 2024</h5><p>
 2.5 "Программировние за 21 день" Евгений Гилев https://www.youtube.com/playlist?list=PLN1BSVwPIqvUBuhRj3PYHqdCn6upxIXzD<p>
 2.6 Администрирование 1С (Первый БИТ)<p>
-2.7 Работа с отладчиком<p><p>
+2.7 Работа с отладчиком<p>
+2.8 Анализ и моделирование бизнес-процессов (ВШЭ) https://apps.openedu.ru/learning/course/course-v1:hse+PROCESS+2022/home <p>
 
 
 <h3>ПОЛУЧЕНЫ СЕРТИФИКАТЫ:</h3>
